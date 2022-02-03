@@ -28,3 +28,6 @@
 .cart_item__delete {
   cursor: pointer;
 }
+
+.cart_item__delete span {
+}
