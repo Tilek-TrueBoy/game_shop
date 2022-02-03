@@ -1,0 +1,15 @@
+.items_qountity{
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  background-color: tomato;
+  border-radius: 15px;
+  font-size: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  z-index: 2;
+  left: 15px;
+  top: -10px;
+}

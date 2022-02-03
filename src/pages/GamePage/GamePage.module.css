@@ -1,0 +1,37 @@
+.game_page {
+  
+}
+.game_page__title{
+  
+}
+
+.game_page__content {
+  display: flex;
+}
+
+.game_page__left {
+  width: 70%;
+}
+.game_page__left iframe {
+  border: none;
+}
+
+.genres_content {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.game_page__right{
+  width: 30%;
+}
+
+.second_text{
+  color: rgb(80,82,84);
+}
+
+.game_page__buy{
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 20px;
+}

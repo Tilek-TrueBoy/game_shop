@@ -1,0 +1,30 @@
+.order_item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 30px;
+}
+
+.order_item__image {
+  width: 200px;
+  margin-right: 30px;
+}
+
+.order_item__title,
+.order_item__price {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.order_item__price {
+  display: flex;
+  align-items: center;
+  margin-left: auto;
+}
+
+.order_item__price span {
+  margin-right: 10px;
+}
+
+.cart_item__delete {
+  cursor: pointer;
+}
